@@ -1,9 +1,11 @@
 # coding_session_AD
 ## Learning Github together
 
+### Just added
+
+
 ```
 x = 1
-print (x)
 ```
 
 [Link for smileys](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
