@@ -7,6 +7,7 @@
 ```
 x = 1
 ```
+🏕️
 
 [Link for smileys](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
